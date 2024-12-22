@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @n1ddy
+- 👋 Hi, I’m @4vexy
+- 💼 Dev lua, html, css, java
 
 <!---
 n1ddy/n1ddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
